@@ -70,3 +70,6 @@ A network security scanning tool for authorized penetration testing.
 ## Legal Notice
 
 This tool is for educational and authorized testing only. 
+
+## Author
+Yuuvashree Senthilmurugan
