@@ -1,4 +1,4 @@
-# WiFi Scanner Project
+# Network Pentration Testing Framework
 
 A network security scanning tool for authorized penetration testing.
 
